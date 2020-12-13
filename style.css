@@ -1,0 +1,9 @@
+p {width: 100px;
+height: 100px;
+background-color: red;}
+
+.p3, .p5, .p8 {
+background-color: blue;
+}
+
+.p2, .p9 {opacity: 0.5;}
